@@ -89,6 +89,7 @@ span,
 a {
   display: inline-block;
   text-decoration: none;
+	outline: thin dotted black
   transition: all 0.4s ease;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
